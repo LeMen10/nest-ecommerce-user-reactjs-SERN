@@ -1,0 +1,48 @@
+.title-page h3{
+    font-size: 30px;
+}
+.checkbox-select-all-option {
+    width: 140px;
+    margin: 0 16px;
+}
+.quantity-product-checkout {
+    padding: 2px 0;
+    margin: 0;
+}
+.change-quantity-product {
+    padding: 4px 10px;
+    border: 1px solid #c8c8c8;
+    border-radius: 4px;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+}
+.change-quantity-product:hover {
+    cursor: pointer;
+}
+.price-total-order {
+    margin-left: 6px;
+}
+
+.buy-button{
+    margin-top: 16px;
+}
+
+.payment-method-title{
+    color: #202529;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.payment-area{
+    display: flex;
+    justify-content: space-between;
+}
+.later_money label, .paypal label{
+    margin-left: 4px;
+}
+
+.buy-button, .total-payment {
+    display: flex;
+    justify-content: flex-end;
+}

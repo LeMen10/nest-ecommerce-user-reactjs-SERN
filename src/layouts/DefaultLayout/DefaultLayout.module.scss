@@ -1,0 +1,17 @@
+// .content {
+//     margin-top: calc(var(--height-header) + 26px); 
+// }
+
+.on-top-icon-wrap{
+    display: flex;
+    width: 40px;
+    background-color: var(--primary-color);
+    padding: 7px 14px;
+    border-radius: 50%;
+    position: fixed;
+    right: 34px;
+    bottom: 54px;
+}
+.on-top-icon-wrap:hover{
+    cursor: pointer;
+}
